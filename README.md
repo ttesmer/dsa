@@ -2,17 +2,17 @@
 
 Attempt at teaching myself DSA.
 
-| Sorting | Search | Backtracking | Data Structures | Problems
-| --- |  --- | ---- | --- | --- | --- | --- |
-| ✅ Insertion Sort | A* |      |✅ Linked List | N-Queens
-| Merge Sort | [IDFS](https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search) | | Binary Tree | Traveling Salesman
-| Bubble Sort | Dijkstra | | Binary Search Tree | Shortest Path
-| Quick Sort | Binary | | Stack | Knight's Tour
-| Selection Sort | Breadth-first | | Queue 
-| Heap Sort | Depth-first | | Heap |
-| Bogosort | ✅ Minimax | | Hashing
-| Radix Sort | | | Graph |
-| [more](https://www.google.com/search?q=sorting+algorithms) | | | [more](https://www.geeksforgeeks.org/data-structures/)
+| Sorting | Search | Backtracking | Data Structures | Problems |
+| ------  | ------ | ------------ | --------------- | -------- |
+| ✅ Insertion Sort | A* |      | ✅ Linked List   | N-Queens |
+| Merge Sort | [IDFS](https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search) | | Binary Tree | Traveling Salesman |
+| Bubble Sort | Dijkstra | | Binary Search Tree | Shortest Path |
+| Quick Sort | Binary | | Stack | Knight's Tour |
+| Selection Sort | Breadth-first | | Queue | |
+| Heap Sort | Depth-first | | Heap | | |
+| Bogosort | ✅ Minimax | | Hashing | |
+| Radix Sort | | | Graph | | |
+| [more](https://www.google.com/search?q=sorting+algorithms) | | | [more](https://www.geeksforgeeks.org/data-structures/) | |
 
 ### Links
 
